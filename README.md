@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Sigmax8 from Italy
 - 👀 I’m interested in lots of topics, some of them are Maths, Physics and Cybersecurity
-- 🌱 I’m currently in High School and I'm trying to improve my problem solving and English skills
-- ⚡ Fun fact: my favourite Pokémon is Latias :)
+- 🌱 I’m currently studying Engineering Physics
+- ⚡ Fun fact: my favourite Pokémon is Latias :D
