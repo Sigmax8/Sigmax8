@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sigmax8 from Italy
-- 🌌 I’m interested in lots of topics, some of them are Maths, Physics and Linguistic
+- 👋 Hi, I’m Agnese from Italy
+- 🌌 I’m interested in lots of different areas of human knowledge, some of them are Maths, Physics, ML and Linguistic
 - 📖 I’m currently studying Engineering Physics
 - ⚡ Fun fact: my favourite Pokémon is Latias :D
